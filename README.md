@@ -28,7 +28,7 @@ WriteResult({ "nInserted" : 1 })
 WriteResult({ "nInserted" : 1 })
 > db.Partidas.insert({nombre: "Sombras en la Estepa", descripcion: "El grupo mercenario Camacho`s Caballeros debe defender el planeta Gibraltar.", director: "Ulric", reglas: "Battletech", numMaxJug: 4, numActJug: 0})
 WriteResult({ "nInserted" : 1 })
-db.Partidas.insert({nombre: "Sombras en la Estepa", descripcion: "El grupo mercenario Camacho`s Caballeros debe defender el planeta Gibraltar.", director: "Phelan", reglas: "Battletech", numMaxJug: 4, numActJug: 0})
+> db.Partidas.insert({nombre: "Sombras en la Estepa", descripcion: "El grupo mercenario Camacho`s Caballeros debe defender el planeta Gibraltar.", director: "Phelan", reglas: "Battletech", numMaxJug: 4, numActJug: 0})
 WriteResult({ "nInserted" : 1 })
 ```
 
